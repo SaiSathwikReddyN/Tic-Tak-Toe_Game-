@@ -1,3 +1,7 @@
+<h1>
+    Tic-Tac-Toe Game<
+</h1>
+ <p>This is a simple Tic-Tac-Toe game built using JavaScript. The purpose of this project was to learn JavaScript fundamentals and gain experience with Git and GitHub.</p>
 <h2>Features</h2>
 <ul>
     <li>Two-player mode (Player X and Player O)</li>
@@ -44,4 +48,4 @@
 </ul>
 
 <h2>Author</h2>
-<p>Created by [Your Name] as a learning project.</p>
+<p>Created by Sai sathwik reddy as a learning project.</p>
