@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tic-Tac-Toe README</title>
-</head>
-<body>
+
     <h1>Tic-Tac-Toe Game</h1>
     <p>This is a simple Tic-Tac-Toe game built using JavaScript. The purpose of this project was to learn JavaScript fundamentals and gain experience with Git and GitHub.</p>
     
@@ -56,5 +49,3 @@
     
     <h2>Author</h2>
     <p>Created by [Your Name] as a learning project.</p>
-</body>
-</html>
